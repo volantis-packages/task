@@ -1,0 +1,16 @@
+{
+    "name": "volantis/task",
+    "type": "package",
+    "description": "A library for handling version comparison, sorting, filtering, and other operations.",
+    "website": "https://volantis.dev",
+    "authors": [{
+            "name": "Ben McClure",
+            "email": "ben@volantisdev.com"
+    }],
+    "require": {
+        "volantis/entity": "^1.0 || dev-main"
+    },
+    "libraries": {
+        "Task": "lib"
+    }
+}
